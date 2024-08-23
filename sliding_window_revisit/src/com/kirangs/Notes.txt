@@ -1,0 +1,6 @@
+Common Patterns
+
+1. Constant Window (less likely to be asked)
+2. Longest subarray/substring where <condition> (Most commonly asked pattern)
+3. Number of SubArrays where <condition> Can be solved using patter 2 (difficult, can't understand whether to shrink or expand the window)
+4. Finding the minimum/shortest window where <condition> (Rare case)
